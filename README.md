@@ -1,7 +1,8 @@
-### EX9 Preprocessing on Twitter Data using Rapidminer
-### DATE: 
-### AIM: To implement preprocessing technique on Twitter Data using Rapidminer
-### Description: 
+# EXPERIMENT 09: PREPROCESSING ON TWITTER DATA USING RAPIDMINER
+## DATE: 13.04.2024
+## AIM: 
+To implement preprocessing technique on Twitter Data using Rapidminer.
+## DESCRIPTION: 
 <div align = "justify">
 RapidMiner provides data mining and machine learning procedures including: data loading and transformation (ETL), data preprocessing and visualization, 
 predictive analytics and statistical modeling, evaluation, and deployment. RapidMiner is written in the Java programming language. 
@@ -10,7 +11,7 @@ Each operator performs a single task within the process, and the output of each 
 other programs or used as an API. Individual functions can be called from the command line. 
 RapidMiner provides learning schemes, models and algorithms and can be extended using R and Python scripts.
 
-### Procedure:
+## PROCEDURE:
 1) ***Import Twitter data:*** Import the Twitter data into RapidMiner. You can do this by selecting the appropriate
 data source operator, such as "Read Excel" or "Read CSV," and specifying the location of your Twitter data
 file.
@@ -25,6 +26,11 @@ operators for preprocessing:
 for this purpose.
 
 
-### Output:
+## OUTPUT:
+![image](https://github.com/Rithigasri/WDM_EXP9/assets/93427256/59ccaeac-e6dc-499d-b58d-36736687fe01)
+![image](https://github.com/Rithigasri/WDM_EXP9/assets/93427256/98a620da-34c0-4820-8f8b-d48f6c21ff82)
+![image](https://github.com/Rithigasri/WDM_EXP9/assets/93427256/5d142e8c-e002-4d6e-8914-c6968343690e)
+![image](https://github.com/Rithigasri/WDM_EXP9/assets/93427256/d2914faf-b62e-4379-a2f1-b5225a337ee7)
 
-### Result:
+## RESULT:
+Thus, the preprocessing technique on Twitter Data using Rapidminer is implemented successfully.
